@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210101', u'urlbase': u'/th?id=OHR.LoonyDook_EN-US4158038260', u'fullstartdate': u'202101010800', u'copyright': u'Polar bear in waters off Svalbard, Norway (\xc2\xa9 Westend61/Getty Images)', u'title': u'Take the plunge into 2021', u'url': u'/th?id=OHR.LoonyDook_EN-US4158038260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'c0202b9e3fd0723b79759ac60803120e', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210101_LoonyDook%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=new+year%27s+day&form=hpcapt&filters=HpDate%3a%2220210101_0800%22', u'wp': True, u'enddate': u'20210102', u'top': 1}
