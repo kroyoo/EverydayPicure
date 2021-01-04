@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210104', u'urlbase': u'/th?id=OHR.DiamondBeach_EN-US4305506637', u'fullstartdate': u'202101040800', u'copyright': u'Diamond Beach across from J\xf6kuls\xe1rl\xf3n, a glacial lagoon in Iceland (\xa9 surangaw/Getty Images)', u'title': u'Sparkling ice diamonds on a black sandy beach', u'url': u'/th?id=OHR.DiamondBeach_EN-US4305506637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'7813ea7a0456543850728fc25489af67', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210104_DiamondBeach%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=j%C3%B6kuls%C3%A1rl%C3%B3n&form=hpcapt&filters=HpDate%3a%2220210104_0800%22', u'wp': True, u'enddate': u'20210105', u'top': 1}
