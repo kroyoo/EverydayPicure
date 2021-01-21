@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210121', u'urlbase': u'/th?id=OHR.RSOakTree_EN-US5122271963', u'fullstartdate': u'202101210800', u'copyright': u'Red squirrel in the Highlands of Scotland (\xc2\xa9 Scotland: The Big Picture/Minden Pictures)', u'title': u'The tale of squirrels like Nutkin', u'url': u'/th?id=OHR.RSOakTree_EN-US5122271963_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'3125d7495710f749edce12d6708c70dd', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210121_RSOakTree%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=eurasian+red+squirrels&form=hpcapt&filters=HpDate%3a%2220210121_0800%22', u'wp': True, u'enddate': u'20210122', u'top': 1}
