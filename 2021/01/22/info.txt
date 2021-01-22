@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210122', u'urlbase': u'/th?id=OHR.BloodyBrook_EN-US5215856823', u'fullstartdate': u'202101220800', u'copyright': u'Paddleboarder in Bloody Brook, alongside the Connecticut River in Hanover, New Hampshire (\xc2\xa9 DEEPOL by plainpicture)', u'title': u'Cold? What cold?', u'url': u'/th?id=OHR.BloodyBrook_EN-US5215856823_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'25fce33702dade9e16e52f3d02beee7c', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210122_BloodyBrook%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=connecticut+river&form=hpcapt&filters=HpDate%3a%2220210122_0800%22', u'wp': True, u'enddate': u'20210123', u'top': 1}
