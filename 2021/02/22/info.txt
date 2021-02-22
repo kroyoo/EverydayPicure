@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210222', u'urlbase': u'/th?id=OHR.InvisibleMan_EN-US6967873703', u'fullstartdate': u'202102220800', u'copyright': u"'Invisible Man,' a memorial to Ralph Ellison in Riverside Park, New York City (\xc2\xa9 Randy Duchaine/Alamy)", u'title': u'Invisible no longer', u'url': u'/th?id=OHR.InvisibleMan_EN-US6967873703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'ad008b2f0eb54f21973a7881d3aab2f6', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210222_InvisibleMan%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=ralph+ellison+memorial&form=hpcapt&filters=HpDate%3a%2220210222_0800%22', u'wp': False, u'enddate': u'20210223', u'top': 1}
