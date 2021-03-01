@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210301', u'urlbase': u'/th?id=OHR.IdaBWells_EN-US0043525265', u'fullstartdate': u'202103010800', u'copyright': u'A section of a large mosaic of Ida B. Wells displayed at Union Station in Washington, DC, in August 2020 (\xc2\xa9 Manuel Balce Ceneta/AP Photo)', u'title': u"Gazing upon 'Portraits of Change'", u'url': u'/th?id=OHR.IdaBWells_EN-US0043525265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'295dd661456d888c693f4f6969331942', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210301_IdaBWells%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=women%27s+history+month&form=hpcapt&filters=HpDate%3a%2220210301_0800%22', u'wp': False, u'enddate': u'20210302', u'top': 1}
