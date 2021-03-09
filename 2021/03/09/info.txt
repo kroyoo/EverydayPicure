@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210309', u'urlbase': u'/th?id=OHR.RollingHills_EN-US0930573674', u'fullstartdate': u'202103090800', u'copyright': u'Foothills of the Diablo Range in the East Bay region of Northern California (\xc2\xa9 Jeff Lewis/Tandem Stills + Motion)', u'title': u'Spring comes to the Diablo foothills', u'url': u'/th?id=OHR.RollingHills_EN-US0930573674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'efa4e86e02e3bf9197a1cf3c6e967f34', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210309_RollingHills%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=diablo+foothills&form=hpcapt&filters=HpDate%3a%2220210309_0800%22', u'wp': True, u'enddate': u'20210310', u'top': 1}
