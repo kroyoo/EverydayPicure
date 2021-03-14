@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210314', u'urlbase': u'/th?id=OHR.LyonAstronomical_EN-US8367377789', u'fullstartdate': u'202103140700', u'copyright': u'Astronomical clock, Lyon, France (\xc2\xa9 kyolshin/Alamy)', u'title': u'Perfect timing', u'url': u'/th?id=OHR.LyonAstronomical_EN-US8367377789_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'1acf0e488ed393a4c574e64bc6c806d4', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210314_LyonAstronomical%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=daylight+saving+time+in+the+us&form=hpcapt&filters=HpDate%3a%2220210314_0700%22', u'wp': True, u'enddate': u'20210315', u'top': 1}
