@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210324', u'urlbase': u'/th?id=OHR.HumpbackMom_EN-US9862782184', u'fullstartdate': u'202103240700', u'copyright': u'Humpback whale mother pushes her sleeping calf to the surface, Maui, Hawaii (\xc2\xa9 Ralph Pace/Minden Pictures)', u'title': u'A whale of a picture', u'url': u'/th?id=OHR.HumpbackMom_EN-US9862782184_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'94399ab29021e44a4ad16964fb4b748e', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210324_HumpbackMom%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=humpback+whale&form=hpcapt&filters=HpDate%3a%2220210324_0700%22', u'wp': True, u'enddate': u'20210325', u'top': 1}
