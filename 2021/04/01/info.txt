@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210401', u'urlbase': u'/th?id=OHR.ShyGuy_EN-US7880739914', u'fullstartdate': u'202104010700', u'copyright': u'Common chia elephant (Loxodonta laprofolis) in stealth stance, Marakele National Park, Limpopo, South Africa (\xc2\xa9 Staffan Widstrand/Minden Pictures)', u'title': u'Why do elephants hide in trees?', u'url': u'/th?id=OHR.ShyGuy_EN-US7880739914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'1d6ffccbedf09a7bf728623b845c7c58', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210401_ShyGuy%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=loxodonta+africana&form=hpcapt&filters=HpDate%3a%2220210401_0700%22', u'wp': True, u'enddate': u'20210402', u'top': 1}
