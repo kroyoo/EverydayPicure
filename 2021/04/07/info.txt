@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210407', u'urlbase': u'/th?id=OHR.WillowNewGrowth_EN-US3318398276', u'fullstartdate': u'202104070700', u'copyright': u'Willow tree in early spring, Minnesota (\xc2\xa9 Jim Brandenburg/Minden Pictures)', u'title': u'A willowy welcome to spring', u'url': u'/th?id=OHR.WillowNewGrowth_EN-US3318398276_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'e809059408c590c0669d8a179db68e59', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210407_WillowNewGrowth%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=willow+(salix)&FORM=hpcapt&filters=HpDate%3a%2220210407_0700%22', u'wp': False, u'enddate': u'20210408', u'top': 1}
