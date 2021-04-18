@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210418', u'urlbase': u'/th?id=OHR.MontalbanoElicona_EN-US7629651237', u'fullstartdate': u'202104180700', u'copyright': u'Montalbano Elicona, Messina, Sicily, Italy (\xc2\xa9 Antonino Bartuccio/SOPA Collection/Offset by Shutterstock)', u'title': u'In Sicily, history is everywhere', u'url': u'/th?id=OHR.MontalbanoElicona_EN-US7629651237_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'e95a93396ed942542fd122f5769611bb', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210418_MontalbanoElicona%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=Montalbano+Elicona+Sicily&form=hpcapt&filters=HpDate%3a%2220210418_0700%22', u'wp': True, u'enddate': u'20210419', u'top': 1}
