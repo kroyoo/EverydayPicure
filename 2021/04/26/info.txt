@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210426', u'urlbase': u'/th?id=OHR.Wensleydale_EN-US0930314934', u'fullstartdate': u'202104260700', u'copyright': u'Wensleydale, Yorkshire Dales National Park, North Yorkshire, England (\xc2\xa9 Guy Edwardes/Minden Pictures)', u'title': u"'Cheese! We'll go somewhere where there's cheese!'", u'url': u'/th?id=OHR.Wensleydale_EN-US0930314934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'6e7826b49d66bcc1ca1677d0866442cc', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210426_Wensleydale%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=wensleydale+england&form=hpcapt&filters=HpDate%3a%2220210426_0700%22', u'wp': True, u'enddate': u'20210427', u'top': 1}
