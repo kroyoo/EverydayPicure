@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210428', u'urlbase': u'/th?id=OHR.GannetsSaltee_EN-US1285648780', u'fullstartdate': u'202104280700', u'copyright': u'Northern gannets on Great Saltee Island, Ireland (\xc2\xa9 Danny Green/Minden Pictures)', u'title': u'Coming home to roost', u'url': u'/th?id=OHR.GannetsSaltee_EN-US1285648780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'227e83d1d34eec7bb67674523570d895', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210428_GannetsSaltee%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=Northern+gannet&form=hpcapt&filters=HpDate%3a%2220210428_0700%22', u'wp': True, u'enddate': u'20210429', u'top': 1}
