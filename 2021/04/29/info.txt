@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210429', u'urlbase': u'/th?id=OHR.Mockhorn_EN-US1360987065', u'fullstartdate': u'202104290700', u'copyright': u'Aerial view of tidal channels in marshland of the Mockhorn Island State Wildlife Management Area, Virginia (\xc2\xa9 Shane Gross/Minden Pictures)', u'title': u'When does the tide come in?', u'url': u'/th?id=OHR.Mockhorn_EN-US1360987065_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'81066650e5c171340f83ec6ebe9673c5', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210429_Mockhorn%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=mockhorn+island+state+wildlife+management+area&form=hpcapt&filters=HpDate%3a%2220210429_0700%22', u'wp': True, u'enddate': u'20210430', u'top': 1}
